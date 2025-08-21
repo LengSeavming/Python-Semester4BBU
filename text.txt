@@ -1,0 +1,17 @@
+==How to create python environment==
+
+->python -m venv .venv
+
+=====21-March-2025=====
+Chapter 7 Class and Object
+1-Create Class
+2-__int__ function
+3-self parameter
+4-super() function
+5-OOP Concept
+	-Inheritant
+	-Ploymorphism
+	-Encapsulation
+	-Abstraction
+
+CRUD = 
